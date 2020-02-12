@@ -1,0 +1,9 @@
+on working dir 1st -> git init (?????????? master ????????)
+
+git add file.exe or git add . // add all files
+
+git commit -m "message" <- (-m importent!!!!)
+
+git push -u origin master 
+
+more: https://docs.google.com/document/d/1wVy8OZlYp7a1IvMegnsx5pFjAmqMK8o-pUeEfdX3hkU/edit
