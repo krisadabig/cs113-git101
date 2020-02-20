@@ -1,0 +1,9 @@
+branch คือ การพัฒนาชุดคำสั่งแยกจากโปรแกรมหลักทำให้สามารถพัฒนาได้โดยโปรแกรมหลักไม่ได้รับผลกระทบ
+          หากไม่พอใจก็ลบสร้างใหม่ทำให้เกิดความสะดวกสบาย และง่ายต่อการพัฒนา
+create branch
+    -git branch <branch-name>
+change branch
+    -git checkout <branch-name>
+merge
+    อยู่ใน branch ที่ต้องการ merge
+    -git merge <branch-name>
